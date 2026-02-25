@@ -59,6 +59,20 @@ The project demonstrates core backend development concepts using **Flask**, data
 * Chart.js
 
 ---
+📸 Application Screenshots
+🔐 Login Page
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ddef689-53bd-4603-a301-56eeefe895a3" />
+
+📝 Registration Page
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aaf002b2-0b9f-4787-8ddc-077ada6a1fa8" />
+
+📊 Dashboard
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f869db4-2cd9-4708-95c1-d70619a6528d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c431f52f-23bd-4c03-b734-35762af19112" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32b09270-e2fe-4da3-9af6-4141cd04503a" />
+
+
+render link for view of website : https://expense-tracker-and-analytic-dashboard.onrender.com/login
 
 ## 📁 Project Structure
 
