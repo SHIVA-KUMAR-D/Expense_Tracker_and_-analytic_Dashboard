@@ -91,7 +91,7 @@ FinSight/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SHIVA-KUMAR-D/Expense_Tracker_and_-analytic_Dashboard.git
 cd FinSight
 ```
 
